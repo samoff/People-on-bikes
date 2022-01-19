@@ -1,0 +1,173 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://samoff.github.io/People-on-bikes/manifests/bike-manifest.json",
+  "@type" : "sc:Manifest",
+  "label" : "People with bikes",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "[Click to edit description]",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "[Click to edit attribution]",
+  "sequences" : [ {
+    "@id" : "http://2b360e70-3297-4466-9372-ee6a682a0ed4",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://f08e9ed5-3822-407c-b554-61b583a7a2b3",
+      "@type" : "sc:Canvas",
+      "label" : "Garza Anza float",
+      "height" : 1016,
+      "width" : 1508,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://97e5a756-bd01-49a7-82a4-b9d0855ec96a",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://images.eap.bl.uk/EAP165/EAP165_1_8/28.jp2/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://images.eap.bl.uk/EAP165/EAP165_1_8/28.jp2",
+            "profile" : [ "http://iiif.io/api/image/2/level1.json", {
+              "formats" : [ "jpg" ],
+              "qualities" : [ "native", "color", "gray" ],
+              "supports" : [ "regionByPct", "regionSquare", "sizeByForcedWh", "sizeByWh", "sizeAboveFull", "rotationBy90s", "mirroring" ]
+            } ]
+          },
+          "height" : 1016,
+          "width" : 1508
+        },
+        "on" : "http://f08e9ed5-3822-407c-b554-61b583a7a2b3"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://5a750eb4-a9ff-4dc2-a98d-14336e41647d",
+      "@type" : "sc:Canvas",
+      "label" : "Man on bicycle, Bulgaria",
+      "height" : 3139,
+      "width" : 2713,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://50956433-f5c6-4347-b675-6b8283a85210",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://images.eap.bl.uk/EAP675/EAP675_60_1/7.jp2/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://images.eap.bl.uk/EAP675/EAP675_60_1/7.jp2",
+            "profile" : [ "http://iiif.io/api/image/2/level1.json", {
+              "formats" : [ "jpg" ],
+              "qualities" : [ "native", "color", "gray" ],
+              "supports" : [ "regionByPct", "regionSquare", "sizeByForcedWh", "sizeByWh", "sizeAboveFull", "rotationBy90s", "mirroring" ]
+            } ]
+          },
+          "height" : 3139,
+          "width" : 2713
+        },
+        "on" : "http://5a750eb4-a9ff-4dc2-a98d-14336e41647d"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://46f8acfe-5120-4493-b26c-f1ee7cbbb2eb",
+      "@type" : "sc:Canvas",
+      "label" : "Boys on bicycle",
+      "height" : 3210,
+      "width" : 3244,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://628bf597-1d4d-4d7f-8dbb-2663b26cf2d9",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://images.eap.bl.uk/EAP838/EAP838_1_7_3/129.jp2/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://images.eap.bl.uk/EAP838/EAP838_1_7_3/129.jp2",
+            "profile" : [ "http://iiif.io/api/image/2/level1.json", {
+              "formats" : [ "jpg" ],
+              "qualities" : [ "native", "color", "gray" ],
+              "supports" : [ "regionByPct", "regionSquare", "sizeByForcedWh", "sizeByWh", "sizeAboveFull", "rotationBy90s", "mirroring" ]
+            } ]
+          },
+          "height" : 3210,
+          "width" : 3244
+        },
+        "on" : "http://46f8acfe-5120-4493-b26c-f1ee7cbbb2eb"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://e60620f6-047b-40bb-b1a5-3dbd97682399",
+      "@type" : "sc:Canvas",
+      "label" : "Child with trike",
+      "height" : 3202,
+      "width" : 2976,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://fbd52569-3543-4bf1-8abe-47affc84435c",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://images.eap.bl.uk/EAP675/EAP675_59_1/63.jp2/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://images.eap.bl.uk/EAP675/EAP675_59_1/63.jp2",
+            "profile" : [ "http://iiif.io/api/image/2/level1.json", {
+              "formats" : [ "jpg" ],
+              "qualities" : [ "native", "color", "gray" ],
+              "supports" : [ "regionByPct", "regionSquare", "sizeByForcedWh", "sizeByWh", "sizeAboveFull", "rotationBy90s", "mirroring" ]
+            } ]
+          },
+          "height" : 3202,
+          "width" : 2976
+        },
+        "on" : "http://e60620f6-047b-40bb-b1a5-3dbd97682399"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://b5b2c418-5d2b-4784-b34a-759f114bdad3",
+      "@type" : "sc:Canvas",
+      "label" : "Boy with bicycle, Guatamala",
+      "height" : 1465,
+      "width" : 1120,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://3b097e70-d5e2-4c04-95e6-14c920619699",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://images.eap.bl.uk/EAP165/EAP165_1_10/79.jp2/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://images.eap.bl.uk/EAP165/EAP165_1_10/79.jp2",
+            "profile" : [ "http://iiif.io/api/image/2/level1.json", {
+              "formats" : [ "jpg" ],
+              "qualities" : [ "native", "color", "gray" ],
+              "supports" : [ "regionByPct", "regionSquare", "sizeByForcedWh", "sizeByWh", "sizeAboveFull", "rotationBy90s", "mirroring" ]
+            } ]
+          },
+          "height" : 1465,
+          "width" : 1120
+        },
+        "on" : "http://b5b2c418-5d2b-4784-b34a-759f114bdad3"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}
