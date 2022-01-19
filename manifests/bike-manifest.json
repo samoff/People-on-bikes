@@ -59,7 +59,7 @@
         "@type" : "oa:Annotation",
         "motivation" : "sc:painting",
         "resource" : {
-          "@id" : "https://images.eap.bl.uk/EAP675/EAP675_60_1/7.jp2/full/full/0/default.jpg",
+          "@id" : "https://images.eap.bl.uk/EAP675/EAP675_60_1/7.jp2/763,563,1156,1699/800,/0/default.jpg",
           "@type" : "dctypes:Image",
           "format" : "image/jpeg",
           "service" : {
