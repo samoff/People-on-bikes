@@ -1,0 +1,13 @@
+{
+  "id" : "https://samoff.github.io/People-on-bikes/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in samoff/People-on-bikes project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://samoff.github.io/People-on-bikes/manifests/bike-manifest.json",
+    "label" : "People with bikes"
+  } ]
+}
